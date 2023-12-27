@@ -4,9 +4,8 @@
 
 ## Information Collection
 
-## We may collect personal information, including but not limited to:
-
-## Contact details (name, email, phone number)
+### We may collect personal information, including but not limited to:
+-  Contact details (name, email, phone number)
 - Correspondence records, including communication exchanged during bug hunting activities
 - Data related to identified vulnerabilities, system weaknesses, and discovered issues during assessments
 - Use of Information
